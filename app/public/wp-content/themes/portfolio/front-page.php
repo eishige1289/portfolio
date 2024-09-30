@@ -150,7 +150,7 @@
                 <div class="about-detail">
                     <h3>SNS</h3>
                     <p class="sns-logo label-github"><a href="https://github.com/eishige1289" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/common/img/github-mark.png" alt="github"></a></p>
-                    <p class="sns-logo label-x"><a href="https://x.com/eri_1289" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/common/img/logo-black.png" alt="X"></a></p>
+                    <!-- <p class="sns-logo label-x"><a href="https://x.com/eeerrriii1289" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/common/img/logo-black.png" alt="X"></a></p> -->
                 </div>
             </div>
         </div>
